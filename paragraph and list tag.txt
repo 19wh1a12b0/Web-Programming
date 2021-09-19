@@ -1,0 +1,21 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    <title> DEPARTMENT </title>
+</head>
+<body>
+    <p>Departments Of Our College:<p>
+    <ol>
+    <li>IT</li>
+    <li>CSE</li>
+    <li>EEE</li>
+    <li>ECE</li>
+    </ol>
+    
+    <dl>
+    <dt>I'm currently pursuing my B.Tech in the department of IT</dt>
+    <dd>Information Technology(IT):
+    <Pre><ul><li>Information technology (IT) is the use of any computers, storage, networking and other physical devices, infrastructure and processes to create, process, store, secure and exchange all forms of electronic data.</li><li> Students will learn to evaluate information sources and to apply good research strategies.</li></ul></Pre></dd>
+   </dl>
+</body>
+</html>
