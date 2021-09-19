@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Links for viewing Wikipedia</title>
+</head>
+<body>
+<p> CLICK <a href="https://www.wikipedia.org/" target="
+_blank"> Wi-Fi </a>to access the home page of Wikipedia</p>
+
+<p>CLICK<a href="https://en.wikipedia.org/wiki/Wikipedia" target="
+_blank"> LAN </a>to know about Wikipedia</p>
+</body>
+</html>

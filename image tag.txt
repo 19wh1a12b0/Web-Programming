@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HTML img tag</title>
+  </head>
+  <body>
+    <img src="https://www.tutorialstonight.com/assets/html/html-tags-list.png" width="500” height="200"
+    alt="natural" />
+  </body>
+  </html>
