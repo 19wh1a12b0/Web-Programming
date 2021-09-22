@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+      <title>HTML Frames</title>
+   </head>
+
+   <frameset cols = "20%,60%">
+       <frameset rows = "200,100">
+ <a href="https://techcrunch.com/wp-content/uploads/2018/01/instagram-giphy-search.gif" > <frame name="left" src="C:\Users\User\Downloads\instagram-giphy-search.gif"></a>
+ <a href="https://cdn.images.express.co.uk/img/dynamic/59/590x/WhatsApp-ban-858850.jpg" ><frame  name="middle" src="C:\Users\User\Downloads\WhatsApp-ban-858850.jpg"></a>
+ <a href="https://www.cnet.com/a/img/Fj8z5Uy36_GTHVTUAV4UPKcvwwA=/940x0/2021/03/25/fd44740b-a137-4e8b-87c0-2d66d8c802f0/001-twitter-app-logo-on-phone-2021.jpg" ><frame name="right" src="C:\Users\User\Downloads\twitter-app-logo-on-phone-ban-858850.jpg"></a>
+
+   
+      
+   </frameset>
+
+</html>
