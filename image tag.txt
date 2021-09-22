@@ -6,7 +6,7 @@
   <body>
   The following image will take you to Google website
   <a href = "https://www.google.com/"
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.wired.co.uk%2Fphotos%2F606d9a3ba876dd2203a639aa%2F3%3A2%2Fw_3000%2Ch_2000%2Cc_limit%2Fwired-uk-google-watching.jpg&imgrefurl=https%3A%2F%2Fwww.wired.co.uk%2Farticle%2Fgoogle-chrome-browser-data&tbnid=aC5VrI95cuXBHM&vet=12ahUKEwj5jMzUq5LzAhXCe30KHW5jAAIQMygcegUIARCJAg..i&docid=qaKEFPDjy-0XuM&w=3000&h=2000&q=google&ved=2ahUKEwj5jMzUq5LzAhXCe30KHW5jAAIQMygcegUIARCJAg" width="500” height="200"
+    <img src="https://media.wired.co.uk/photos/606d9a3ba876dd2203a639aa/3:2/w_3000,h_2000,c_limit/wired-uk-google-watching.jpg" width="500” height="200"
     alt="natural" />
   </body>
   </html>
