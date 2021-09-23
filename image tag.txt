@@ -4,9 +4,11 @@
     <title>HTML img tag</title>
   </head>
   <body>
-  The following image will take you to Google website
-  <a href = "https://about.google/products/"
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fabout.google%2Fproducts%2F&psig=AOvVaw20Q_gMfUCIOzzk6aEBqkSX&ust=1632392500056000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNCYuNCukvMCFQAAAAAdAAAAABAD" width="500” height="200"
-    alt="natural" />
+      The following image will take you to the Google website
+      <p>
+ <a href="https://www.google.com/" target="_blank">
+  <img src="https://cdn.vox-cdn.com/thumbor/8tLchaDMIEDNzUD3mYQ7v1ZQL84=/0x0:2012x1341/920x613/filters:focal(0x0:2012x1341):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/47070706/google2.0.0.jpg" height="500" width="700">
+ </a>
+</p>
   </body>
   </html>
